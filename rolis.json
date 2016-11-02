@@ -1,0 +1,45 @@
+{  
+   "room":"SPICYDROP LATVIA",
+   "author":"Sedow",
+   "icon":null,
+   "css":"https://cdn.rawgit.com/AreTheyFamous/Spicydrop.CCS/master/spicydrop2.css",
+   "rules":{  
+      "allowAutorespond":true,
+      "allowAutowoot":true,
+      "allowAutojoin":true,
+      "allowAutograb":true,
+      "allowSmartVote":true,
+      "allowEmotes":true,
+      "allowShowingMehs":true,
+      "forceSmartVote":false
+   },
+   "ccc":{  
+      "admin":null,
+      "ambassador":null,
+      "host":"#37013A",
+      "cohost":"#4F2F8D",
+      "manager":"#00A6FF",
+      "bouncer":"##FF80FF",
+      "rdj":"#FFFFFF",
+      "subscriber":null,
+      "silversubscriber":null,
+      "friend":null,
+      "user":null
+   },
+   "images":{  
+      "background":"https://cdn.radiant.dj/rcs/bg/2k15rtreesmusic.jpg",
+      "playback":null,
+      "admin":null,
+      "ambassador":null,
+      "host":"https://cdn.rawgit.com/AreTheyFamous/Spicydrop.CCS/master/Host.png",
+      "cohost":"https://cdn.rawgit.com/AreTheyFamous/Spicydrop.CCS/master/Co-host.png",
+      "manager":"https://cdn.rawgit.com/AreTheyFamous/Spicydrop.CCS/master/Manager.png",
+      "bouncer":"https://cdn.rawgit.com/AreTheyFamous/Spicydrop.CCS/master/Bouncer.png",
+      "rdj":"https://cdn.rawgit.com/AreTheyFamous/Spicydrop.CCS/master/Resident-DJ.png",
+      "subscriber":null,
+      "silversubscriber":null
+   },
+   "emotes":{  
+      "emote_name":null
+   }
+}
