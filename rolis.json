@@ -2,7 +2,7 @@
    "room":"SPICYDROP LATVIA",
    "author":"Sedow",
    "icon":null,
-   "css":"https://cdn.rawgit.com/AreTheyFamous/Spicydrop.CCS/master/spicydrop2.css",
+   "css":"https://cdn.rawgit.com/AreTheyFamous/rola-istab/master/rolis.css",
    "rules":{  
       "allowAutorespond":true,
       "allowAutowoot":true,
